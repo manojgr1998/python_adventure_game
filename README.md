@@ -41,7 +41,7 @@ README.md             # Project description
 ________________________________________
 🚀 How to Run the Game
 1. Clone the Repository
-git clone https://github.com/your-username/python-adventure-game.git
+git clone https://github.com/manojgr1998/python-adventure-game.git
 cd python-adventure-game
 2. Run the Game
 Make sure Python 3 is installed.
